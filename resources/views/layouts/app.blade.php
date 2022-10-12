@@ -40,7 +40,7 @@
 
     div {
         border: 1px solid cyan;
-        max-width: 750px;
+        max-width: 800px;
         margin: 2rem auto;
         padding: 10px;
 
