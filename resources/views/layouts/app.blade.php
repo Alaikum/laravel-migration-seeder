@@ -48,6 +48,7 @@
     }
     h2:hover {
         color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
         scale: 2;
         cursor: pointer;
     }
@@ -58,7 +59,8 @@
     }
 
     li:hover {
-        color: white;
+        color: black;
+        text-shadow: -1px 0 magenta, 0 1px magenta, 1px 0 magenta, 0 -1px magenta;
         scale: 1.25;
         cursor: pointer;
     }
